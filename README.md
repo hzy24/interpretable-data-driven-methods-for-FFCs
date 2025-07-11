@@ -9,18 +9,18 @@ Details and how to obtain them, as well as requirements, are detailed in this [a
 We recommend using a conda virtual environment for configuration.
 
 
-`
+`bash
 conda create -n FFCs python=3.9.17
 `
 
 Activate the environment:
 
-`
+`bash
 conda activate FFCs
 `
 
 Install pip packages:
 
-`
+`bash
 pip install -r requirements.txt
 `
